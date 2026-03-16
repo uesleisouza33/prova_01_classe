@@ -1,4 +1,4 @@
-class PiramideHexagonal {
+export default class PiramideHexagonal {
   constructor(aresta, altura) {
     this.aresta = aresta;
     this.altura = altura;
@@ -25,4 +25,3 @@ class PiramideHexagonal {
   }
 }
 
-module.exports = PiramideHexagonal;
