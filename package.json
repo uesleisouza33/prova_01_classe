@@ -1,0 +1,17 @@
+{
+  "name": "ueslei_avaliacao_classe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Ueslei Carvalho",
+  "license": "MIT",
+  "description": "Prova sobre modelagem de sistemas, uso de classes, diagramas e testes unitários",
+  "dependencies": {
+    "jest": "^30.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
